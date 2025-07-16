@@ -1,0 +1,2 @@
+First name	Last name	Occupation	Gender	NID	Days	Room no	Roob bill	Paid amount	Due amount	Phone number	Password	
+jamil	father	mother	1,1,1	Male	saidpur	1	Science(10000tk)	10000	0	10000	12345	

@@ -1,0 +1,5 @@
+Name	Father Name	Mother Name	Date Of Birth	Gender	Address	Standard	Group	Total Fee	Paid 	Due amount	ID Number	Password	
+rifat	father	mother	1,1,1	Custom	rangpur	1	Science(10000tk)	10000	0	10000	ID	Number	
+jamil	father	mother	1,1,1	Male	saidpur	1	Science(10000tk)	10000	0	10000	12345	54321	
+jamil	father	mother	1,1,1	Male	amiami	1	Science(10000tk)	10000	6000	4000	123456	654321	
+		
